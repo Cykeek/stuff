@@ -1,18 +1,8 @@
 <h1 align="center"> 😏 Welcome to my github 🖐</h1>
 
 <h2 align="center"> Hi I'm Cykeek official maintainer of </h2>
-<table align="center">
-  <tr>
-    <td><b><a href="https://github.com/VoltageOS/manifest">Voltage OS</a></b></td>
-    <td> for </td>
-    <td><b><a href="https://www.realme.com/in/realme-3-pro">Realme 3 Pro</a></b></td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/DroidX-UI/manifest">Droid X</a></b></td>
-    <td> for </td>
-    <td><b><a href="https://www.realme.com/in/realme-3-pro">Realme 3 Pro</a></b></td>
-  </tr>
-</table>
+
+![README](https://github.com/Cykeek/stuff/assets/70019075/6ad00e08-fa8a-43ac-8916-f1cb8e48edab)
 
 <!--Project section-->
 <h2 align="left">Here are my projects that I have worked on:</h2>
