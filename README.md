@@ -2,15 +2,13 @@
 
 <h2 align="center"> Hi I'm Cykeek official maintainer of </h2>
 
-![README](https://github.com/Cykeek/stuff/assets/70019075/6ad00e08-fa8a-43ac-8916-f1cb8e48edab)
+![README](https://github.com/Cykeek/stuff/assets/70019075/7fb6d0fd-2bd5-4a13-8f80-fc1368be5950)
 
 <!--Project section-->
 <h2 align="left">Here are my projects that I have worked on:</h2>
-<p>✅ <b><a href="https://github.com/Cykeek-Labs">Realme 3 Pro</a></b></p>
-<p>✅ <b><a href="https://github.com/Cykeek/vendor_havoc">Havoc LTS</a></b><strong> (🔴Unofficial)</strong></p>
-<p>✅ <b><a href="https://github.com/Cykeek/ScriptKiddie">ScriptKiddie</a></b></p>
-<p>✅ <b><a href="https://github.com/CherishOS">Cherish OS</a></b></p>
-<p>✅ <b><a href="https://github.com/DroidX-UI">Droid X</a></b><strong> (🟢Official)</strong></p>
+
+![README](https://github.com/Cykeek/stuff/assets/70019075/10c2ae37-0842-4130-8165-8124e16daef7)
+
 <br>
 
 <!--Education section-->
@@ -22,68 +20,28 @@
 
 <!--PC section-->
 <h1 align="left"><b>Here are my PC Specs 🖥</b></h1>
-<table>
-  <tr>
-    <td><b>MotherBoard</b></td>
-    <td><b>Processor</b></td>
-    <td><b>GPU</b></td>
-    <td><b>PSU</b></td>
-    <td><b>Storage</b></td>
-    <td><b>Mouse</b></td>
-    <td><b>Monitor</b></td>
-    <td><b>Keyboard</b></td>
-  </tr>
-  <tr>
-    <td><i>B450M S2H V2</i></td>
-    <td><i>AMD Ryzen 3 3200G 3600Mhz</i></td>
-    <td><i>Zotac 1050ti 4gb</i></td>
-    <td><i>corsair 550W</i></td>
-    <td><i>220GB Western Digitial SSD + 1TB Wester Digitial HDD</i></td>
-    <td><i>HP Generic RGB Mouse with 1600dpi</i></td>
-    <td><i>HP Generic IPS 23' Display</i></td>
-    <td></i>Amkette Generic Keyboard</i></td>
-  </tr>
-</table>
+
+![README](https://github.com/Cykeek/stuff/assets/70019075/3866cd28-6e89-46e1-8078-648662f8a1da)
+
 <br>
 
 <!--Credits section-->
 <h2><b>Thanks to These guys for helping me a lot </b></h2>
-<ul>
-  <li><a href="https://github.com/R15Hi">Rishi Roy Bhamiya🙍‍♂️</a></li>
-  <li><a href="https://github.com/karthick111">Karthick C umkle🙍‍♂️</a></li>
-  <li><a href="https://github.com/SheikhFaisal713">Faisal Sheikh🙍‍♂️</a></li>
-  <li><a href="https://github.com/Kartik728">Kartik🙍‍♂️</a></li>
-  <li><a href="https://github.com/pjgowtham">PjGowtham umkle🙍‍♂️</a></li>
-  <li><a href="https://github.com/kssrao13882">Kssrao umkle🙍‍♂️</a></li>
-  <li><a href="https://github.com/mrfox2003">Mr.Fox umkle🙍‍♂️</a></li>
-  <li><a href="https://github.com/ashwani212">Ashwani🙍‍♂️</a></li>
-  <li><a href="https://github.com/onkarsinghsahil">Sahil🙍‍♂️</a></li>
-  <li><a href="https://github.com/rokusenpaii">rokuSenpai🙍‍♂️</a></li>
-  <li><a href="https://github.com/KanishkTheDerp">Kanishk Umkle🙍‍♂️</a></li>
-  <li><a href="https://github.com/shutter-cat">Dimitrii umkle🙍‍♂️</a></li>
-  <li><a href="https://github.com/ZirgomHaidar">ZirgomHaidar bhamiya🙍‍♂️</a></li>
-  <li><a href="https://github.com/PptO07">Pranav Temkar🙍‍♂️</a></li>
-  <li><a href="https://github.com/karthik558">Karthik Lal umkle🙍‍♂️</a></li>
-  <li><a href="https://github.com/StudioKeys">Jis G Jacob🙍‍♂️</a></li>
-  <li><a href="https://github.com/NexusHacker">Shubham Singh 🙍‍♂️</a></li>
-</ul>
+
+![README_credits](https://github.com/Cykeek/stuff/assets/70019075/5d8ae068-6916-4845-a4c2-05008b65bdcc)
+
 <br>
 
 <!--Social Media Section-->
 <h2><b> Follow me here: </b></h2>
-<a href="https://www.instagram.com/cykeekgit/"><img align="center" src="https://img.icons8.com/color/48/null/instagram-new--v1.png"></a>
-<a href="https://twitter.com/Cykeekgit"><img align="center" src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
-<a href="https://www.hackerrank.com/AnnonymousIndie"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="annonymousindie" height="30" width="40" /></a>
-<a href="https://t.me/CykeekBuilds"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/telegram.png" height="40" width="40" /></a>
-<a href="mailto:cykeek@proton.me"><img align="center" src="https://img.icons8.com/color/48/null/protonmail-2.png" height="40" width="40" /></a>
-<a href="https://www.reddit.com/user/Virus0nME"><img align="center" src="https://img.icons8.com/fluency/48/null/reddit.png" height="40" width="40" /></a>
+
+![README](https://github.com/Cykeek/stuff/assets/70019075/062a3583-f563-40d0-8f30-f9a713e7aa41)
 
 <!--Devices Section-->
 <h2><b>Devices I Own</b></h2>
-<ul>
-  <li><a href="https://www.mi.com/in/redmi-note-10-pro/"><img align="center" src="https://img.icons8.com/color/48/null/xiaomi.png" height="40" width="40" /><b>Redmi Note 10 Pro (Sweetin)</b></a></li>
-  <li><a href="https://www.realme.com/in/realme-3-pro"><img align="center" src="https://static.realme.net/v3/common/images/toApp-overseas-25892ede38.png" height="40" width="40" /><b> Realme 3 Pro (RMX1851)</b></a></li>
-</ul>
+
+![README](https://github.com/Cykeek/stuff/assets/70019075/1230e56c-8a3f-43ca-9a55-085d439a8b06)
+
 <br>
 
 <!--Github Achievements section-->
