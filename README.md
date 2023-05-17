@@ -28,7 +28,7 @@
 <!--Credits section-->
 <h2><b>Thanks to These guys for helping me a lot </b></h2>
 
-![README_credits](https://github.com/Cykeek/stuff/assets/70019075/5d8ae068-6916-4845-a4c2-05008b65bdcc)
+![README_credits](https://github.com/Cykeek/stuff/assets/70019075/d57e23c4-121e-4416-85cd-7a983360e941)
 
 <br>
 
