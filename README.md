@@ -7,7 +7,7 @@
 <!--Project section-->
 <h2 align="left">Here are my projects that I have worked on:</h2>
 
-![README](https://github.com/Cykeek/stuff/assets/70019075/10c2ae37-0842-4130-8165-8124e16daef7)
+![README](https://github.com/Cykeek/stuff/assets/70019075/3ef31b68-f7bf-42c8-8e00-b3f93a247fca)
 
 <br>
 
