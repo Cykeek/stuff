@@ -2,12 +2,12 @@
 
 <h2 align="center"> Hi I'm Cykeek official maintainer of </h2>
 
-![README](https://github.com/Cykeek/stuff/assets/70019075/3234825c-bb99-477c-ae88-d6708f184a06)
+![README](https://github.com/Cykeek/stuff/assets/70019075/611b8a64-1f15-4183-9ea8-d5df352f8b35)
 
 <!--Project section-->
 <h2 align="left">Here are my projects that I have worked on:</h2>
 
-![README](https://github.com/Cykeek/stuff/assets/70019075/3ef31b68-f7bf-42c8-8e00-b3f93a247fca)
+![README](https://github.com/Cykeek/stuff/assets/70019075/8575ea66-190a-4b51-a472-1d67beabc685)
 
 <br>
 
@@ -21,26 +21,26 @@
 <!--PC section-->
 <h1 align="left"><b>Here are my PC Specs 🖥</b></h1>
 
-![README](https://github.com/Cykeek/stuff/assets/70019075/3866cd28-6e89-46e1-8078-648662f8a1da)
+![README](https://github.com/Cykeek/stuff/assets/70019075/2d4450ff-63de-4305-a1b0-c95a5bf70096)
 
 <br>
 
 <!--Credits section-->
 <h2><b>Thanks to These guys for helping me a lot </b></h2>
 
-![README_credits](https://github.com/Cykeek/stuff/assets/70019075/d57e23c4-121e-4416-85cd-7a983360e941)
+![README_credits](https://github.com/Cykeek/stuff/assets/70019075/664d5db5-62d8-420b-8168-7314c879cf43)
 
 <br>
 
 <!--Social Media Section-->
 <h2><b> Follow me here: </b></h2>
 
-![README](https://github.com/Cykeek/stuff/assets/70019075/062a3583-f563-40d0-8f30-f9a713e7aa41)
+![README](https://github.com/Cykeek/stuff/assets/70019075/ae3ee85c-516b-4756-b7a1-6725a427dd72)
 
 <!--Devices Section-->
 <h2><b>Devices I Own</b></h2>
 
-![README](https://github.com/Cykeek/stuff/assets/70019075/3b37a6f4-0776-4da3-98b7-e3743f2ce005)
+![README](https://github.com/Cykeek/stuff/assets/70019075/2ba7b968-7733-439c-bab4-3396c8ecf1ac)
 
 <br>
 
