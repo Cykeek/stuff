@@ -2,7 +2,7 @@
 
 <h2 align="center"> Hi I'm Cykeek official maintainer of </h2>
 
-![README](https://github.com/Cykeek/stuff/assets/70019075/7fb6d0fd-2bd5-4a13-8f80-fc1368be5950)
+![README](https://github.com/Cykeek/stuff/assets/70019075/3234825c-bb99-477c-ae88-d6708f184a06)
 
 <!--Project section-->
 <h2 align="left">Here are my projects that I have worked on:</h2>
@@ -40,7 +40,7 @@
 <!--Devices Section-->
 <h2><b>Devices I Own</b></h2>
 
-![README](https://github.com/Cykeek/stuff/assets/70019075/1230e56c-8a3f-43ca-9a55-085d439a8b06)
+![README](https://github.com/Cykeek/stuff/assets/70019075/3b37a6f4-0776-4da3-98b7-e3743f2ce005)
 
 <br>
 
